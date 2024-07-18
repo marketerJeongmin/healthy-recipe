@@ -20,7 +20,7 @@ const metaConfig = {
   //TODO: Change the values below according to your project
   title: "seollong's recipes",
   description: "All about healthy recipes",
-  author: "seollong",
+  author: "김설렁 레시피",
   siteUrl: "https://healthy-recipy.netlify.app",
   lang: "en-US",
   utterances: "",

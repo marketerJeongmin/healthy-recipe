@@ -25,7 +25,6 @@ const Layout: React.FC<React.PropsWithChildren> = ({ children }) => {
         </Container>
         <Footer role="contentinfo">
           <Copyright aria-label="Copyright">{copyrightString}</Copyright>
-          <FamilyDropdown />
         </Footer>
       </ThemeContext.Provider>
     </ThemeProvider>
